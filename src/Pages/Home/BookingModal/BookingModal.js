@@ -84,7 +84,7 @@ const BookingModal = ({ productItem, setProductItem }) => {
               type="email"
               defaultValue={user?.email}
               disabled
-              placeholder="Email Address"
+              placeholder="your Email Address"
               className="input w-full input-bordered"
             />
             <input
