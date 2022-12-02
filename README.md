@@ -1,3 +1,15 @@
+
+# There are many technology used in this project
+ first of all i build in second hand phone project by react.js
+ react router dom,react hook form ,react query, firebase Authentication,axios,date fns payment method by stripe.
+ in this project, there are three roles in the user.
+ Admin role
+ seller role
+ buyer role
+
+ Admin can delete user,seller add the product,buyer buy the product
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
