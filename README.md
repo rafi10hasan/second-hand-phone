@@ -9,8 +9,14 @@
 
  Admin can delete user,see all seller,see all buyers,,seller add the product and advertise the product,buyer buy the product
  
- # Live Link: 
+
+ # Website Name: second hand phone
+ ## Livelink
  https://used-phone-product.web.app/
+# Website Link 
+* This is live side link [Live link ]().
+
+
 
 # Getting Started with Create React App
 
