@@ -13,9 +13,9 @@ const EachCategory = ({ category }) => {
         <div className="card-actions">
           <Link
             to={`categories/${categoryName}`}
-            className="btn btn-primary mt-6"
+            className="btn btn-success mt-6"
           >
-            View Items
+             show product
           </Link>
         </div>
       </div>
