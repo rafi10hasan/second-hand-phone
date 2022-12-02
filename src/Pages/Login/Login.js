@@ -136,7 +136,7 @@ const Login = () => {
                   data-mdb-ripple="true"
                   data-mdb-ripple-color="light"
                 >
-                  Sign in
+                  Log in
                 </button>
                 <div>{loginError && <p className="text-red-600">{loginError}</p>}</div>
 
