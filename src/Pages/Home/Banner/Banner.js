@@ -15,7 +15,7 @@ const Banner = () => {
           <h1 className="mb-5 text-5xl font-bold">second hand phone</h1>
           <p className="mb-5">
             Used mobile phone prices in Bangladesh: Tablets and smart phones We
-            sell mobile devices and accessories for top prices.
+            sell second hand devices and accessories for top prices.
           </p>
           <button className="btn glass text-white">Get Started</button>
         </div>
