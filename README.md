@@ -7,8 +7,10 @@
  seller role
  buyer role
 
- Admin can delete user,seller add the product,buyer buy the product
-
+ Admin can delete user,see all seller,see all buyers,,seller add the product and advertise the product,buyer buy the product
+ 
+ # Live Link: 
+ https://used-phone-product.web.app/
 
 # Getting Started with Create React App
 
