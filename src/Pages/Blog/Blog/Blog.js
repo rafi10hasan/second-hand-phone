@@ -30,7 +30,7 @@ const Blog = () => {
             Query that make managing server state much easier.<b>URL state:</b> Data that exists on
             our URLs, including the pathname and query parameters. URL state is often missing as a
             category of state, but it is an important one. In many cases, a lot of major parts of
-            our application rely upon accessing URL state. Try to imagine building a blog without
+            our application rely upon accessing URL state. Try to imagine create a blog without
             being able to fetch a post based off of its slug or id that is located in the URL!
           </p>
         </div>
