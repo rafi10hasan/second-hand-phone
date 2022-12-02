@@ -66,7 +66,7 @@ const Navbar = () => {
         </div>
         
         <Link to="/" className="btn btn-ghost normal-case text-xl font-mono">
-          second hand phone
+          Second Hand Phone
         </Link>
       </div>
       <div className="navbar-center hidden lg:flex">
