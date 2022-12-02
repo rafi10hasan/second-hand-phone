@@ -74,13 +74,7 @@ const EachItem = ({ product, setProductItem }) => {
       });
   };
 
-  // console.log(sellerMail, userInfo[0]);
 
-  // const { name, categoryName, sellerVerified } = userInfo[0];
-
-  // const { name, sellerVerified } = sellerInfo[0];
-
-  // console.log(productName, sellerMail);
 
   return (
     <div className="card w-full bg-base-100 shadow-2xl">
